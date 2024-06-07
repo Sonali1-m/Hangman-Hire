@@ -22,8 +22,8 @@ Hangman Hire utilizes modern web development technologies to create an interacti
 
 ## How to Access Hangman Hire
 
-1. To play Hangman Hire and experience its features, simply visit the [Demo Link]. 
-2. The [Demo Link](https://sonali1-m.github.io/Hangman-Hire) contains detailed documentation and the source code for further exploration.
+1. To play Hangman Hire and experience its features, simply visit the [Demo Link](https://sonali1-m.github.io/Hangman-Hire). 
+2. The [GitHub Rep](https://github.com/Sonali1-m/Hangman-Hire/tree/main) contains detailed documentation and the source code for further exploration.
 
 ## Installation
 
@@ -46,5 +46,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries or collaboration opportunities, please feel free to contact me via [Your Contact Information].
+For any inquiries or collaboration opportunities, please feel free to contact me via [LinkedIn](https://www.linkedin.com/in/sonali-mohanta/).
 
