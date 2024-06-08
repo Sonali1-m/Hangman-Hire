@@ -128,3 +128,40 @@ h1 {
 .notification-container.show {
   transform: translateY(-50px);
 }
+
+/* Add these styles to the existing CSS */
+.keyboard-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.keyboard-row {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.key {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 2px;
+  cursor: pointer;
+  font-size: 18px;
+  border-radius: 4px;
+  transition: background-color 0.3s;
+}
+
+.key:hover {
+  background-color: #f0f0f0;
+}
+
+.key:focus {
+  outline: none;
+}
+
+.key:active {
+  background-color: #ddd;
+}
