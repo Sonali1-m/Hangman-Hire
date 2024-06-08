@@ -22,7 +22,7 @@ Hangman Hire utilizes modern web development technologies to create an interacti
 
 ## How to Access Hangman Hire
 
-1. To play Hangman Hire and experience its features, simply visit the [Demo Link](https://sonali1-m.github.io/Hangman-Hire). 
+1. To play Hangman Hire and experience its features, simply visit [Play Game](https://sonali1-m.github.io/Hangman-Hire/). 
 2. The [GitHub Rep](https://github.com/Sonali1-m/Hangman-Hire/tree/main) contains detailed documentation and the source code for further exploration.
 
 ## Installation
